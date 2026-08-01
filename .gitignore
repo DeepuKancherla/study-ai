@@ -1,0 +1,19 @@
+# Environment Variables & Keys
+.env
+.env.local
+*.env
+
+# Python & Databases
+__pycache__/
+*.pyc
+venv/
+.venv/
+study_ai.db
+uploaded_pdfs/
+
+# Node & Next.js
+node_modules/
+.next/
+out/
+build/
+.DS_Store
